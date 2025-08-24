@@ -1,6 +1,6 @@
 # TFT Tournament Dashboard
 
-![Tournament Screenshot](https://raw.githubusercontent.com/ancarvalho/RoadToToddy/refs/heads/master/static/img/final.jpeg)
+
 
 ## Core Features
 
